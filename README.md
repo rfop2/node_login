@@ -19,7 +19,3 @@ monggose conecta o projeto ao mongoDB Atlas (um banco de dados na nuvem)
 connect-flash: faz uns pop-out na interface
 nodemon: roda o programa de forma mais imples
 
-para checar que os usuários foram realmente adicionados ao banco acesse:
-1.https://cloud.mongodb.com/user#/atlas/login
-2. logue com a conta login: rf.oliveirapaula@gmail.com senha: thekillers10@
-3. Vá em collections
