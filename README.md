@@ -6,7 +6,7 @@ Descompate o zip ou us git clone e abre ele com o VS Code.
 Para rodar esse projeto:
 1. Instale o NodeJS no pc.
 2. Instale as bibliotecas necessárias usando o terminal dentro da pasta do projeto usando: 
-npm i express bcryptjs passport passport-local ejs express-ejs-layout mongoose connect-flash
+npm i express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash
 3. Instale o nodemon usando: npm i -D nodemon
 4. Rode o programa usando: npm run dev
 5. Acesse localhost:5000
